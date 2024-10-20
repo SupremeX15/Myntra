@@ -1,2 +1,2 @@
-# pro_myntra
+# Myntra
 Myntra Clone
